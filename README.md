@@ -1,4 +1,4 @@
-# ✨ Abigail's Tech Portfolio ✨
+# ✨ Abigail Mbizana✨
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sparkle-Code%20Like%20Magic-pink?style=for-the-badge&logo=starship&logoColor=white&color=FF6B8B" alt="Header">
@@ -10,10 +10,14 @@
 
 ## 🌸 About Me
 ```diff
-+ 💻 19 y/o computing student with a love for problem-solving
-+ 🌈 Passionate about AI, web development, and creative coding
-+ 🎨 Believes tech should be both functional and beautiful
-+ 🦄 Currently learning: Machine Learning & Advanced JavaScript
+💻 19 y/o computing student with a love for problem-solving
+🌈 Passionate about AI, web development, and creative coding
+🎨 Believes tech should be both functional and beautiful
+🦄 Currently learning: Machine Learning & Advanced JavaScript
+
+
+
+
 <!---
 abby-coder-tech/abby-coder-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
